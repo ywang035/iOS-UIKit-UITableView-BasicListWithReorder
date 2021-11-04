@@ -14,6 +14,7 @@
 		DACAB99D27337F7A0002C4E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACAB99C27337F7A0002C4E4 /* Assets.xcassets */; };
 		DACAB9A027337F7A0002C4E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DACAB99E27337F7A0002C4E4 /* LaunchScreen.storyboard */; };
 		DACAB9A82733865F0002C4E4 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACAB9A72733865F0002C4E4 /* ListViewController.swift */; };
+		DACAB9AA273394F70002C4E4 /* CustomTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACAB9A9273394F70002C4E4 /* CustomTableCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DACAB99F27337F7A0002C4E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DACAB9A127337F7A0002C4E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DACAB9A72733865F0002C4E4 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		DACAB9A9273394F70002C4E4 /* CustomTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DACAB99527337F790002C4E4 /* SceneDelegate.swift */,
 				DACAB99727337F790002C4E4 /* ViewController.swift */,
 				DACAB9A72733865F0002C4E4 /* ListViewController.swift */,
+				DACAB9A9273394F70002C4E4 /* CustomTableCell.swift */,
 				DACAB99927337F790002C4E4 /* Main.storyboard */,
 				DACAB99C27337F7A0002C4E4 /* Assets.xcassets */,
 				DACAB99E27337F7A0002C4E4 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DACAB99827337F790002C4E4 /* ViewController.swift in Sources */,
+				DACAB9AA273394F70002C4E4 /* CustomTableCell.swift in Sources */,
 				DACAB99427337F790002C4E4 /* AppDelegate.swift in Sources */,
 				DACAB9A82733865F0002C4E4 /* ListViewController.swift in Sources */,
 				DACAB99627337F790002C4E4 /* SceneDelegate.swift in Sources */,

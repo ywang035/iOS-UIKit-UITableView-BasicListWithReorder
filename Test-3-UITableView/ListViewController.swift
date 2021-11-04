@@ -44,5 +44,6 @@ class ListViewController: UITableViewController {
         characters.remove(at: sourceIndexPath.row)
         characters.insert(movedObject, at: destinationIndexPath.row)
     }
+    
 }
 
